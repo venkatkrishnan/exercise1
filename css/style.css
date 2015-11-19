@@ -1,0 +1,12 @@
+#web_body {
+  width: 500px;
+  margin: auto;
+  font-family: sans-serif;
+  background-color: #A5A5A5;
+}
+
+blockquote {
+  border: 1px solid white;
+  text-align: center;
+  margin-left: 0px;
+}
